@@ -32,7 +32,9 @@
 <h2 align="center">
     ⚠️「 📍𝗙𝗢𝗥𝗞 𝗧𝗛𝗜𝗦 𝗥𝗘𝗣𝗢 𝗙𝗜𝗥𝗦𝗧𝗟𝗬📍 」⚠️
 
-
+<P align="center">
+   <img src="https://graph.org/file/6fff6a80e7b9aa16e54ab.jpg">
+</p>
 
 
 <h3 align="center">

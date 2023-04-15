@@ -14,7 +14,7 @@
 
 
 <h2 align="center">
-    ──「 𝗩𝗜𝗣 𝗠𝗨𝗦𝗜𝗖 」──
+    ──「 🅐︎🅓︎🅗︎🅔︎🅡︎🅐︎ 🅜︎🅤︎🅢︎🅘︎🅒︎」──
 
 
 
@@ -22,10 +22,10 @@
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/7b51adb8645bb87510996.jpg">
+  <img src="https://graph.org/file/83ac51a71d02c89646d0f.jpg">
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟ॐ❥𝗩𝗜𝗣🍷𝗠𝗨𝗦𝗜𝗖❥𝄟⃟🥀](https://t.me/II_VIP_MUSIC_II_BOT)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟ॐ❥🅐︎🅓︎🅗︎🅔︎🅡︎🅐︎🅧︎🅜︎🅤︎🅢︎🅘︎🅒︎❥𝄟⃟🥀](https://t.me/II_VIP_MUSIC_II_BOT)**
 
 
 
@@ -41,7 +41,7 @@
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/THE-VIP-BOY-OP/VIP-MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/FIDAAXRAJ/ADHERAXMUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h2 align="center">
 

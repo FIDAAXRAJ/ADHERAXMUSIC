@@ -49,7 +49,7 @@
 
 🚩「 🅘︎🅕︎ 🅐︎🅝︎🅨︎ 🅔︎🅡︎🅡︎🅞︎🅡︎ 🅘︎🅝︎ 🅑︎🅞︎🅣︎ 🅓︎🅜︎ 🅜︎🅔︎  」🚩
 <p align="center">
-<a href="https://telegram.me/ll_ADHERA_KING_ll"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐕𝐈𝐏 𝐁𝐎𝐘%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/ll_ADHERA_KING_ll"><img src="https://img.shields.io/badge/-☆🅓︎🅜︎ 🅣︎🅞︎ 🅐︎🅓︎🅗︎🅔︎🅡︎🅐︎%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
